@@ -318,7 +318,7 @@ function App() {
 
       {/* Footer */}
       <footer className="py-8 text-center text-gray-400 text-sm">
-        <p>Built with React & Framer Motion</p>
+        <p>&copy; Samarth Singh. All rights reserved </p>
       </footer>
     </div>
   );
